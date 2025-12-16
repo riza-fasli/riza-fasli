@@ -2,7 +2,7 @@
 
 ## MERN Stack Developer
 
-[![LinkedIn](https://portfolio-riza-fasli.vercel.app/)
+LinkedIn(https://portfolio-riza-fasli.vercel.app/)
 
 I build production ready full stack applications and deliver seamless user experiences at scale. My work spans real world systems, high quality client projects, and tools used across multiple countries.
 
