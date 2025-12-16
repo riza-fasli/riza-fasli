@@ -28,7 +28,7 @@ I am continuously building new products, expanding into advanced technologies, a
 
 ## GitHub Stats
 
-![Riza's GitHub stats]()
+![Riza's GitHub stats](https://github.com/riza-fasli)
 
 
 ## Connect With Me
